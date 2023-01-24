@@ -1,3 +1,2 @@
 Texto de archivo 2.
 otro texto más.
-otro texto incluido
